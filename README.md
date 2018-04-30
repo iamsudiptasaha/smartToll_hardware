@@ -26,7 +26,7 @@
 
 <h3>Repositories:</h3>
 <ul>
-  <li><b>Android (Mobile Application)</b> - </li>
+  <li><b>Android (Mobile Application)</b> - https://github.com/iamsandeepkhan/smartToll_app</li>
   <li><b>PHP (Server)</b> - https://github.com/iamsudiptasaha/smartToll_server</li>
   <li><b>Raspberry pi (Hardware)</b> - https://github.com/iamsudiptasaha/smartToll_hardware</li>
 </ul>
