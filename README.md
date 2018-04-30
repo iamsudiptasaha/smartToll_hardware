@@ -40,9 +40,12 @@
 
 <h3>Miscellaneous informations : </h3>
 <ul>
+  <li><b>Please update the MQTT authentication details in the file!</b></li>
   <li>Data over MQTT Channel : JSON Encoded data. Contains two mandatory fields to determine successful server operation:
     <p>"station" : Station name or code</p>
     <p>"gate" : Gate code associated with the station.</p>
   </li>
   
 </ul>
+
+
